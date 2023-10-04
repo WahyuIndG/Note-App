@@ -19,4 +19,4 @@ Aplikasi dibentuk untuk melatih pemahaman pengembang terkait materi <i>Component
 npm install
 npm run dev
 ```
-*aplikasi hanya untuk tujuan edukasi, uji kemampuan pengembang dan pemenuhan tugas.
+*aplikasi hanya untuk tujuan belajar, uji kemampuan pengembang dan pemenuhan tugas.

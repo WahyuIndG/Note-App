@@ -12,3 +12,11 @@ Aplikasi Pencatatan dengan sumber data diambil dari RESTful API yang diterapkan 
 
 ## Background Pembuatan Aplikasi
 Aplikasi dibentuk untuk melatih pemahaman pengembang terkait materi <i>Component Life Cycle</i>, <i>How to handle Asynchronus Process in React</i>, dan <i>Implementation of Hooks in React</i>
+
+## How to Run
+
+```
+npm install
+npm run dev
+```
+*aplikasi hanya untuk tujuan edukasi, proses melatih pemahhaman pengembang dan pemenuhan tugas.
